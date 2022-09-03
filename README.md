@@ -1,9 +1,16 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR.NAYAN&label=Profile%20views&color=eb4d3d&style=flat-square" alt="MR-NAYAN" /> </p>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Mr+Nayan;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+ 
+</p>
+ 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+ 
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdarkyt&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
 </i></b></h3>
  
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/MR-NAYAN-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MR.NAYAN&theme=monokai"></a>
-
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/MrDarkYT"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MrDarkYT&theme=monokai"></a>
  
