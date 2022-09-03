@@ -61,7 +61,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝐌𝐑-𝐍𝐀𝐘𝐀𝐍-𝟒𝟎𝟒](https://github.com/MR-NAYAN-404))  
+- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝐌𝐑-𝐍𝐀𝐘𝐀𝐍-𝟒𝟎𝟒](https://github.com/MR-NAYAN-404) 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - ⚡😁 **I think I am funny** ⚡😁
