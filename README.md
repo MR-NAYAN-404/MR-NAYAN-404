@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/DEAR%20MOTHER FUCKER-DON'T COPY MY STYLE-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
@@ -49,11 +49,11 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [𝐌𝐑.𝐍𝐀𝐘𝐀𝐍](https://www.facebook.com/MR.NAYAN.01)
+- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [নয়ন- NAYANツ](https://www.facebook.com/MR.NAYAN.01)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 :- (https://wa.me/+8801615298449)
+- 📱𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 :- [𝐌𝐑.𝐍𝐀𝐘𝐀𝐍](https://wa.me/+8801615298449)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
