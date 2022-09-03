@@ -2,13 +2,13 @@
  
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-    Welcome to MrDark profile  
+    WLCM to MR.NAYAN profile  
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%66ff66&size=27&lines=I+am+Mr+Nayan;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%66ff66&size=27&lines=I+am+Mr.+Nayan;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
  
 </p>
  
@@ -41,7 +41,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🖤 𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏:- 𝐒𝐈𝐍𝐆𝐋𝐄 𝐏𝐑𝐎 𝐌𝐀𝐗
+- 🖤 𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏:- 𝐒𝐈𝐍𝐆𝐋𝐄 𝐏𝐑𝐎
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -64,7 +64,7 @@
 - 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝐌𝐑-𝐍𝐀𝐘𝐀𝐍-𝟒𝟎𝟒](https://github.com/MR-NAYAN-404))  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- ⚡ Fun fact **I think I am funny**
+- ⚡😁 **I think I am funny** ⚡😁
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
