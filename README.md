@@ -1,13 +1,8 @@
-![I am GitHub Readme Generator's creator](https://www.facebook.com/100014896964436/posts/1386059951900557/?substory_index=0&app=fbl)
-
-
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-
-I am students 
-I live in Bangladesh
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR.NAYAN&label=Profile%20views&color=eb4d3d&style=flat-square" alt="MR-NAYAN" /> </p>
+</i></b></h3>
+ 
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/MR-NAYAN-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MR.NAYAN&theme=monokai"></a>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/MrDarkYT"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MrDarkYT&theme=monokai"></a>
