@@ -17,7 +17,7 @@
  
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-NAYAN-404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-NAYAN-404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="MR-NAYAN-404" /> </p>
 </i></b></h3>
  
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
