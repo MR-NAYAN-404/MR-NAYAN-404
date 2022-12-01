@@ -54,7 +54,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [Jihad Mahtab](https://www.facebook.com/MR.NAYAN.404)
+- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [Mohammad Nayan](https://www.facebook.com/N4Y4N.BR4ND.Y0UR.N3X7.D4D)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
